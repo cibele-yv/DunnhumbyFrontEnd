@@ -4,7 +4,7 @@ This is a React application that displays product information in a data table an
 
 ## Features
 - **Data Table**: Displays product details with sorting and filtering by Product Code and Name.
-- **Graph**: Shows total stock quantity per category.
+- **Data Graph**: Shows total stock quantity per category.
 
 ## Getting Started
 
