@@ -15,5 +15,5 @@ This is a React application that displays product information in a data table an
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd view-products-app
+   git clone https://github.com/cibele-yv/DunnhumbyFrontEnd.git
+   cd DunnhumbyFrontEnd
